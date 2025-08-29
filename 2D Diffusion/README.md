@@ -2,6 +2,4 @@ This work demonstrates the implementation of the Finite Volume Method (FVM) in M
 
 The Governing diffusion equation for temperature T (i.e., heat conduction equation), which can be written as,
 
-$ \frac{\partial}{\partial x}\left( k \frac{\partial T}{\partial x} \right) + \frac{\partial}{\partial y}\left( k \frac{\partial T}{\partial y} \right) + S = 0 $
-  
-                   <img width="380" height="65" alt="image" src="https://github.com/user-attachments/assets/1327695c-669e-4608-b6c0-09e7ac6ac520" />
+![Equation](https://latex.codecogs.com/png.latex?\dpi{150}\color{white}\frac{\partial}{\partial%20x}\left(k\frac{\partial%20T}{\partial%20x}\right)+\frac{\partial}{\partial%20y}\left(k\frac{\partial%20T}{\partial%20y}\right)+S=0)
